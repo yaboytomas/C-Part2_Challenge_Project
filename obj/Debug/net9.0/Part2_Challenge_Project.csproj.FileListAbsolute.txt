@@ -1,0 +1,15 @@
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\bin\Debug\net9.0\Part2_Challenge_Project.exe
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\bin\Debug\net9.0\Part2_Challenge_Project.deps.json
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\bin\Debug\net9.0\Part2_Challenge_Project.runtimeconfig.json
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\bin\Debug\net9.0\Part2_Challenge_Project.dll
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\bin\Debug\net9.0\Part2_Challenge_Project.pdb
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.AssemblyInfo.cs
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.sourcelink.json
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.dll
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\refint\Part2_Challenge_Project.dll
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.pdb
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\Part2_Challenge_Project.genruntimeconfig.cache
+C:\Users\tomas\Documents\repositorios\C#\Part2_Challenge_Project\obj\Debug\net9.0\ref\Part2_Challenge_Project.dll
